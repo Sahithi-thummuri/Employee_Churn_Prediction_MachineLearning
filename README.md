@@ -17,14 +17,16 @@ We have reduced the dimensions to two components by using PCA as a dimension red
 RESULTS:
 
 1. Accuracy:
+   
    ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/34ee2ea0-a373-4396-8cd5-4c9b146324ad)
-2. Confusion matrix:
+3. Confusion matrix:
+   
    ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/de27ab14-d474-427e-9ee5-8fd76c834562)
-3. Precision, Recall, F1 score, and support:
+5. Precision, Recall, F1 score, and support:
    ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/692a90b2-7a46-444e-8eed-a155b341cc5c)
-4. K-fold Cross-validation (k=10)
+6. K-fold Cross-validation (k=10)
    ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/f55b4593-b674-4406-9cc7-4a1549412fed)
-5. ROC and AUC:
+7. ROC and AUC:
    ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/566d697e-dd0a-4b2a-b598-cf8e3865fca3)
    
 <b>From the results and comparison metrics obtained, we see that the algorithms – Logistic Regression, Random Forest, Kernel SVM and XGBoost give us the best accuracy scores of >85% even with 10-fold cross-validation.</b>
