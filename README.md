@@ -17,11 +17,9 @@ We have reduced the dimensions to two components by using PCA as a dimension red
 RESULTS:
 
 1. Accuracy:
-   ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/70a717cd-76ab-42dc-b3df-636834e57bce)
-
+   ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/34ee2ea0-a373-4396-8cd5-4c9b146324ad)
 2. Confusion matrix:
-   ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/40b1ef64-b2d9-419c-a7fa-e43e851dc465)
-
+   ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/de27ab14-d474-427e-9ee5-8fd76c834562)
 3. Precision, Recall, F1 score, and support:
    ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/692a90b2-7a46-444e-8eed-a155b341cc5c)
 4. K-fold Cross-validation (k=10)
