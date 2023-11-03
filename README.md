@@ -2,11 +2,11 @@
 
 In the ever-competitive job market, retaining existing employees is often more challenging for HR teams than recruiting new ones. The departure of valued staff members not only results in a loss of productivity but also incurs substantial costs for businesses. To tackle this issue, we adopted a machine learning approach to predict potential employee turnover, offering a proactive strategy for managing talent retention. Additionally, in the context of organizational changes and the possibility of layoffs, we explored churn modeling as an informed alternative to haphazard staff reductions. 
 
-<b>METHODS:<b>
+<b>METHODS:</b>
 
 Utilizing a range of machine learning techniques, including Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Naïve Bayes, Decision Trees, and more, our models were trained and fine-tuned using the Employee Attrition dataset sourced from Kaggle, aiming to optimize their performance. These models provide businesses with a valuable tool for enhancing employee retention strategies and making data-driven decisions during periods of organizational transition.
 
-DATA SOURCE: https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition
+<b>DATA SOURCE:</b> https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition
 
 Dimensionality Reduction:
 
@@ -29,7 +29,12 @@ RESULTS:
 5. ROC and AUC:
    ![image](https://github.com/Sahithi-thummuri/Employee_Churn_Prediction_MachineLearning/assets/142358393/566d697e-dd0a-4b2a-b598-cf8e3865fca3)
    
-From the results and comparison metrics obtained, we see that the algorithms – Logistic Regression, Random Forest, Kernel SVM and XGBoost give us the best accuracy scores of >85% even with 10-fold cross-validation.
+<b>From the results and comparison metrics obtained, we see that the algorithms – Logistic Regression, Random Forest, Kernel SVM and XGBoost give us the best accuracy scores of >85% even with 10-fold cross-validation.</b>
+
+<b>#FILE DESCRIPTION:</b>
+
+1. Employee_Churn_Prediction_Report.pdf: Complete description of the project
+2. Employee_Churn_Code.pdf: Execution of the project
 
 
 
